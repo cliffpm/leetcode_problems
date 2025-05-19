@@ -1,4 +1,4 @@
-## leetcode_problems
+## leetcode problems
 These are a list of Leetcode problems I have solved in Python (sometimes Java) alongside with solution. Most of these problems are from Neetcode 150.
 
 | #   | Array and Hashing                                                                                                   | Solution | Time | Space | Difficulty | Tag | Note |
